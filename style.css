@@ -1,0 +1,29 @@
+.copy_right_footer{
+    position: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 0;
+    width : 100%;
+    text-align: center;
+    background-color: rgb(69, 63, 63);
+    color:white;
+}
+img{
+    width: 30%;
+    border-radius: 0;
+    border-width: 20px;
+    border-color: black;
+    box-shadow: 0  6px 8px 0 black;
+    
+}
+img:hover{
+    border-radius:14px ;
+}
+#resultRow{
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+}
+body{
+    background:rgb(221, 219, 219);
+
+}
